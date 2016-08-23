@@ -1,7 +1,7 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
-  "private": true,
+  "name": "terradagaroacoding",
+  "version": "1.0.0",
+  "private": false,
   "hexo": {
     "version": "3.2.0"
   },
